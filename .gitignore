@@ -2,3 +2,4 @@
 .env.*
 ./app/vendor
 vendor
+.phpunit.result.cache
